@@ -50,4 +50,23 @@
 uv run python examples/lyria_example_ethiopian.py --style ethio-jazz --duration 30
 ```
 
+## Challenges & Solutions
+
+**What didn't work on first try?**
+- the video generation did not work.
+- I needed to swith directories to run entire ai-content submission so this also did not work.
+**How did you troubleshoot?**
+- Read command line feedback and debugged using copilot
+**What workarounds did you discover?**
+- I did not figure out how to make the video generation work in time. I will keep trying.
+
+## Insights & Learnings
+
+**What surprised you about the codebase?**
+- The structure looked good. I liked how the providers were placed and how they used provider registery to use different models.
+- For some reason, Some import statements had issues. I did not figure them out in time 
+**What would you improve?**
+- Time management.
+**How does this compare to other AI tools you've used?**
+- I have not used CLI to generate content so far so I was impressed.
 
